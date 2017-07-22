@@ -1,3 +1,18 @@
+/*
+
+CREATED BY : ANDRE CARLOS
+DATE OF CREATION : JUL/2017
+SUMMARY:
+This script is for a personal review of database programming and administration.
+This can by used by anyone who want study database technology. Future scripts will
+include PL/SQL and NoSQL programming.
+
+contato@andrecarlos.com.br
+SAO PAULO - BRAZIL
+
+*/
+
+
 USE [GuiaPratico]
 GO
 
